@@ -1,0 +1,22 @@
+{
+  "name": "cafeteria",
+  "version": "1.0.0",
+  "description": "Aprendiendo SASS, Gulp, CSS Grid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antonioog/Cafeteria-sass-gulp.git"
+  },
+  "author": "Juan Antonio Ortiz.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Antonioog/Cafeteria-sass-gulp/issues"
+  },
+  "homepage": "https://github.com/Antonioog/Cafeteria-sass-gulp#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
